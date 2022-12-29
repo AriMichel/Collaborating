@@ -12,3 +12,5 @@ Instructions
 * Then make a pull request for both of your branches.
 * Assign one another to review your work. Once you have reviewed each other's work, merge the branches to master.
 
+Adding some text direct on GitHub and creating a nex branch
+
